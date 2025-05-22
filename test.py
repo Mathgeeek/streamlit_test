@@ -1,7 +1,7 @@
 import streamlit as st
 
 [theme]
-backgroundColor = "#F0F0F0"
+backgroundColor = "#9fcc68"
 
 # ---------- 페이지 설정 ----------
 st.set_page_config(
