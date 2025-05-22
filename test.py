@@ -7,14 +7,13 @@ st.set_page_config(
     layout="centered",
 )
 
-
 # 원하는 폰트로 바꾸는 CSS (예: 나눔고딕, 구글폰트)
 st.markdown(
     """
     <style>
-    @import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@700&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Gowun+Batang&family=Noto+Serif+KR:wght@200..900&family=Orbit&family=Poor+Story&display=swap');
     html, body, [class*="css"]  {
-        font-family: 'Nanum Gothic', sans-serif;
+        font-family: 'Orbit', sans-serif;
     }
     </style>
     """,
