@@ -11,6 +11,7 @@ st.markdown(
     </style>
     """,
     unsafe_allow_html=True
+)
     
 # ---------- 페이지 설정 ----------
 st.set_page_config(
